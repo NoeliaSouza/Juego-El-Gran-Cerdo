@@ -35,7 +35,7 @@ Para comenzar el juego se debe seleccionar la opción N°1 desde el menú "Jugar
 
 
 El juego está compuesto por cinco rondas por jugador y en cada ronda el jugador dispone de ilimitados lanzamientos.
-En cada lanzamiento el jugador tira los dados y se analizan los valores de las caras:
+En cada lanzamiento el jugador tira los dados y se analizan los valores de las caras. El puntaje y la situación de ambos jugadores se puede visualizar en la cabecera del juego:
 
 ![A jugar 2](https://user-images.githubusercontent.com/122423086/211718491-cc44fc81-90cd-4677-9247-340b992eb3e9.jpg)
 
