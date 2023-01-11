@@ -17,13 +17,17 @@ Para comenzar el juego se piden los nombres de ambos jugadores, y luego se lanza
 
 
 El juego está compuesto por cinco rondas por jugador y en cada ronda el jugador dispone de ilimitados lanzamientos.
-En cada lanzamiento el jugador tira los dados y se analizan los valores de las caras.
-![A jugar 2](https://user-images.githubusercontent.com/122423086/211716681-b47fdc7e-d689-4e7b-9a98-ee31f4f21a7f.JPG)
+En cada lanzamiento el jugador tira los dados y se analizan los valores de las caras:
+
+![A jugar 2](https://user-images.githubusercontent.com/122423086/211718491-cc44fc81-90cd-4677-9247-340b992eb3e9.jpg)
 
 
 
-Cuando finalizan las rondas, se determina el puntaje final a partir de los siguientes hitos en el juego.
-![A jugar 3](https://user-images.githubusercontent.com/122423086/211716701-726a58d8-7b90-4876-b680-a564eb9b65b8.JPG)
+
+Cuando finalizan las rondas, se determina el puntaje final a partir de los siguientes hitos en el juego:
+
+![A jugar 3](https://user-images.githubusercontent.com/122423086/211718498-74ca5acd-4686-4c92-8eee-f7a7d1eba299.jpg)
+
 
 
 
