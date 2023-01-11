@@ -1,4 +1,4 @@
-## Proyecto de video juego Laboratorio I 
+# Proyecto de video juego Laboratorio I 
 
 
 - Alumna: Afonso de Souza Noelia
