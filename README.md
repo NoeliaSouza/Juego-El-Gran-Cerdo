@@ -28,7 +28,7 @@ El menú cuenta con instrucciones de cómo jugar y cómo sumar puntos:
 ## Demostración del proyecto paso a paso
 ----------------
 
-Para comenzar el juego se piden los nombres de ambos jugadores, y luego se lanzan los dados para determinar cuál de los dos jugadores empieza.:
+Para comenzar el juego se piden los nombres de ambos jugadores, y luego se lanzan los dados para determinar cuál de los dos jugadores empieza:
 
 ![A jugar b](https://user-images.githubusercontent.com/122423086/211718204-65be46c1-d7e8-41c8-a5ce-b1015d0e2348.jpg)
 
