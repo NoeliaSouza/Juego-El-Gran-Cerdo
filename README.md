@@ -1,10 +1,10 @@
 # Proyecto de video juego Laboratorio I - UTN FGRP
 
-![Menu 1](https://user-images.githubusercontent.com/122423086/211717560-6e3c1bf3-7505-4fa8-8109-e641792dc71a.jpg)
+![Menu 1](https://user-images.githubusercontent.com/122423086/211717638-fa2b56f2-e1f1-4aa0-81e7-76042ab31ec2.jpg)
 
 
-Este proyecto consiste en "El Gran Cerdo": un juego de dados para dos jugadores, el cual utiliza dos o tres dados de seis caras por cada jugador, y además consta de 5 rondas.
-El objetivo general del juego es sumar la mayor cantidad de puntos de victoria en un total de 5 rondas. La suma de puntaje depende de diferentes situaciones que se pueden dar en el juego. 
+
+Este proyecto consiste en "El Gran Cerdo": un juego de dados para dos jugadores, el cual tiene como objetivo general del juego es sumar la mayor cantidad de puntos de victoria en un total de 5 rondas. La suma de puntaje depende de diferentes situaciones que se pueden dar en el juego. 
 
 ![4-instrucciones](https://user-images.githubusercontent.com/122423086/211717249-e3fc7f08-42b4-4c78-8550-66636bd9973d.JPG)
 
