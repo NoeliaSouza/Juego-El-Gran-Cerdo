@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1656701869 source:c:\users\54113\desktop\facultad\utn\carrera\laboratorio de computacion 1\el gran cerdo\el gran cerdo\main.cpp
+	<iostream>
+	<clocale>
+	<string>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<windows.h>
+	"rlutil.h"
+
+1656702314 source:c:\users\54113\desktop\facultad\utn\carrera\laboratorio de computacion 1\el gran cerdo\el gran cerdo\funciones.cpp
+	<iostream>
+	<clocale>
+	<string>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<windows.h>
+
+1656701076 c:\users\54113\desktop\facultad\utn\carrera\laboratorio de computacion 1\el gran cerdo\el gran cerdo\funciones.h
+
+1656655308 c:\users\54113\desktop\facultad\utn\carrera\laboratorio de computacion 1\el gran cerdo\el gran cerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1671680538 source:d:\descargas\escritorio\facultad\utn\carrera\1er cuatri 2022\laboratorio de computacion 1\el gran cerdo\el gran cerdo final\el gran cerdo\funciones.cpp
+	<iostream>
+	<clocale>
+	<string>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<windows.h>
+
+1656701076 d:\descargas\escritorio\facultad\utn\carrera\1er cuatri 2022\laboratorio de computacion 1\el gran cerdo\el gran cerdo final\el gran cerdo\funciones.h
+
+1671680889 source:d:\descargas\escritorio\facultad\utn\carrera\1er cuatri 2022\laboratorio de computacion 1\el gran cerdo\el gran cerdo final\el gran cerdo\main.cpp
+	<iostream>
+	<clocale>
+	<string>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<windows.h>
+	"rlutil.h"
+
+1656655308 d:\descargas\escritorio\facultad\utn\carrera\1er cuatri 2022\laboratorio de computacion 1\el gran cerdo\el gran cerdo final\el gran cerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1671680538 source:d:\descargas\escritorio\facultad\github\proyecto cerdo labo 1 - 1c 2022\el gran cerdo final\el gran cerdo\funciones.cpp
+	<iostream>
+	<clocale>
+	<string>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<windows.h>
+
+1656701076 d:\descargas\escritorio\facultad\github\proyecto cerdo labo 1 - 1c 2022\el gran cerdo final\el gran cerdo\funciones.h
+
+1671680889 source:d:\descargas\escritorio\facultad\github\proyecto cerdo labo 1 - 1c 2022\el gran cerdo final\el gran cerdo\main.cpp
+	<iostream>
+	<clocale>
+	<string>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	<windows.h>
+	"rlutil.h"
+
+1656655308 d:\descargas\escritorio\facultad\github\proyecto cerdo labo 1 - 1c 2022\el gran cerdo final\el gran cerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
