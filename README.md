@@ -6,7 +6,8 @@
 
 Este proyecto consiste en "El Gran Cerdo": un juego de dados para dos jugadores, el cual tiene como objetivo general del juego es sumar la mayor cantidad de puntos de victoria en un total de 5 rondas. La suma de puntaje depende de diferentes situaciones que se pueden dar en el juego. 
 
-![4-instrucciones](https://user-images.githubusercontent.com/122423086/211717249-e3fc7f08-42b4-4c78-8550-66636bd9973d.JPG)
+![4-instrucciones 2](https://user-images.githubusercontent.com/122423086/211718039-4bd8b551-8865-40b2-b3c3-dfde59f7871f.jpg)
+
 
 
 Para comenzar el juego se piden los nombres de ambos jugadores, y luego se lanzan los dados para determinar cuál de los dos jugadores empieza. 
