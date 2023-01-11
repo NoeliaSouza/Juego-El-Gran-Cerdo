@@ -43,4 +43,4 @@ Cuando finalizan las rondas, se determina el puntaje final a partir de los sigui
 
 ![A jugar 3](https://user-images.githubusercontent.com/122423086/211718498-74ca5acd-4686-4c92-8eee-f7a7d1eba299.jpg)
 
-
+Para el desarrollo del mismo se utilizó C++.
