@@ -20,7 +20,7 @@ El menú contiene los siguientes items: "Jugar",  "Instrucciones", "Estadisticas
 -------------
 ## Instrucciones del juego
 ------------
-El menú cuenta con instrucciones de cómo jugar y cómo sumar puntos:
+Este item contiene notas sobre cómo jugar y cómo sumar puntos:
 
 ![4-instrucciones 2](https://user-images.githubusercontent.com/122423086/211718039-4bd8b551-8865-40b2-b3c3-dfde59f7871f.jpg)
 
